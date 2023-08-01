@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "RNEcomerce",
+			"path": "."
+		},
+		{
+			"name": "constants",
+			"path": "../../Downloads/Compressed/assets/constants"
+		}
+	],
+	"settings": {}
+}
